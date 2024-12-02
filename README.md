@@ -35,6 +35,6 @@
     <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="40" height="40"/>
 </p>
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost&show_icons=true&theme=tokyonight)
 
 ![Статистика используемых языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaPost&layout=compact&theme=radical)
