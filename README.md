@@ -27,6 +27,11 @@
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" alt="Sass" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" width="40" height="40"/>
 </p>
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost)
