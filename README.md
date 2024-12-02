@@ -7,8 +7,7 @@
 - 👩‍🎓 Мое обучение: IT-incubator,  PurpleSchool, HTML Academy, Айтилогия, одним из последних достижений было получение диплома гос.образца по профессии "Веб-разработчик" 🤩
 
 ## 🛠️ Навыки
-- Frontend: HTML, CSS, Sass, JavaScript, React
-- Backend: Node.js, PHP
+- Frontend: HTML, CSS, Sass, JavaScript, React, Node.js
 - Инструменты: Git, VS Code, Figma, Jira
 - Методологи: БЭМ, ООП, pixsel-perfect
 
