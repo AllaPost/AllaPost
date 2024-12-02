@@ -20,8 +20,13 @@
 - 📧 Email: al.sh96@mail.ru
 - 🌐 [Telegram](@all_sh96)
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+### 🛠️ Языки и инструменты:
+<p>
+  <img src="[https://img.icons8.com/color/48/html-5--v1.png](https://icons8.com/icon/20909/html-5)" alt="HTML5" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://img.icons8.com/ios-filled/50/sass.png" alt="Sass" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/react.png" alt="React" width="40" height="40"/>
+</p>
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost)
