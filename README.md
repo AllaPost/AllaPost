@@ -22,7 +22,7 @@
 
 ### 🛠️ Языки и инструменты:
 <p>
-  <img src="[https://img.icons8.com/color/48/html-5--v1.png](https://icons8.com/icon/20909/html-5)" alt="HTML5" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> 
   <img src="https://img.icons8.com/ios-filled/50/sass.png" alt="Sass" width="40" height="40"/>
