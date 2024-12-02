@@ -18,7 +18,7 @@
 
 ## 📫 Как со мной связаться
 - 📧 Email: al.sh96@mail.ru
-- 🌐 [Telegram](@all_sh96)
+- 🌐 [Telegram](https://t.me/all_sh96)
 
 ### 🛠️ Языки и инструменты:
 <p>
