@@ -40,4 +40,4 @@
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost&show_icons=true&theme=tokyonight)
 
-![Статистика используемых языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaPost&layout=compact&theme=radical)
+
