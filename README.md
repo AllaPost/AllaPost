@@ -32,6 +32,7 @@
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="40" height="40"/>
 </p>
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost)
