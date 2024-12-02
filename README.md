@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" alt="Sass" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/react.png" alt="React" width="40" height="40"/>
 </p>
 
