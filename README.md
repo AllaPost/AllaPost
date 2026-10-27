@@ -1,41 +1,33 @@
-# Всем привет! 👋 Я Алла!✨
+# Алла Постникова
 
-## 🙋‍♀️ Обо мне
-- 💻 Я занимаюсь веб-разработкой и люблю создавать удобные и красивые интерфейсы.
-- 🎨 Увлекаюсь дизайном и оптимизацией UI/UX.
-- 📚 Постоянно учусь и экспериментирую с новыми технологиями
-- 👩‍🎓 Мое обучение: IT-incubator,  PurpleSchool, HTML Academy, Айтилогия, одним из последних достижений было получение диплома гос.образца по профессии "Веб-разработчик" 🤩
+Руководитель IT-проектов и бизнес-аналитик. B2G, ГИС, FinTech.
 
-## 🛠️ Навыки
-- Frontend: HTML, CSS, Sass, JavaScript, React, Node.js
-- Инструменты: Git, VS Code, Figma, Jira
-- Методологи: БЭМ, ООП, pixsel-perfect
+## Обо мне
 
-## 📂 Проекты
-| Название      | Описание            | Ссылка                       |
-|---------------|---------------------|------------------------------|
-| "IT-конференция"  | Выпускная атесстационная работа на последнем обучении | [Демо](https://allapost.github.io/GP_DAYS_2024/) · [Код](https://github.com/AllaPost/GP_DAYS_2024)         |
-| "Тестовая страница"  | Сайт туров по Санкт-Петербургу | [Демо](https://allapost.github.io/tour_of_SPB/) · [Код](https://github.com/AllaPost/tour_of_SPB/settings/pages)         |
+Со стороны госзаказчика веду 7-8 контрактов на развитие государственных информационных систем Ленинградской области. Бюджеты от 8 до 130 млн ₽. Полный цикл: ТЗ, контроль подрядчиков, экспертиза документации по ГОСТ 34, приёмка по 44-ФЗ.
 
-## 📫 Как со мной связаться
-- 📧 Email: al.sh96@mail.ru
-- 🌐 [Telegram](https://t.me/all_sh96)
+Раньше выстроила Scrum, Jira и Confluence в FinTech-команде из 15 человек, а в IT-консалтинге вела до 15 клиентских проектов одновременно.
 
-### 🛠️ Языки и инструменты:
-<p>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" alt="Sass" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Jira" width="40" height="40"/>
-</p>
+## Про этот GitHub
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AllaPost&show_icons=true&theme=tokyonight)
+Здесь мои учебные проекты с курсов по веб-разработке: IT-incubator, PurpleSchool, HTML Academy, Айтилогия и диплом гособразца «Веб-разработчик». Разработчиком я не работаю, но эта база помогает в основной работе. Я говорю с командой на одном языке, понимаю, как устроены фронтенд и API, реалистичнее оцениваю задачи и могу сама проверить результат.
 
-![Статистика используемых языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaPost&layout=compact&theme=radical)
+## Что умею
+
+- **Управление проектами:** Scrum, Kanban, Waterfall, управление рисками, RACI, работа с подрядчиками и стейкхолдерами
+- **Аналитика:** сбор и формализация требований, ТЗ по ГОСТ 34, BPMN, UML, user stories, тест-кейсы
+- **Техническая база:** SDLC, клиент-серверная архитектура, REST API, базовый SQL, HTML, CSS, JavaScript, Git
+- **Инструменты:** Jira, Confluence, MS Project, Битрикс24, Zabbix, Figma, Miro
+
+## Учебные проекты
+
+| Проект | Описание | Ссылки |
+|---|---|---|
+| IT-конференция | Сайт конференции, выпускная аттестационная работа курса «Веб-разработчик» | [Демо](https://allapost.github.io/GP_DAYS_2024/) · [Код](https://github.com/AllaPost/GP_DAYS_2024) |
+| Туры по Санкт-Петербургу | Сайт экскурсионных туров | [Демо](https://allapost.github.io/tour_of_SPB/) · [Код](https://github.com/AllaPost/tour_of_SPB) |
+
+## Контакты
+
+- Telegram: [@al_pst96](https://t.me/al_pst96)
+- Email: allapostnikova09@gmail.com
+- Хабр Карьера: [career.habr.com/alla_post](https://career.habr.com/alla_post)
